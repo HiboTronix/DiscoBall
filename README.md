@@ -1,5 +1,5 @@
 # Discoball 
-![DiscoBall](https://github.com/HiboTronix/Discoball/blob/master/Images/discoball_complete.jpg)
+![DiscoBall](https://github.com/HiboTronix/DiscoBall/blob/master/Images/discoball_complete.jpg)
 </p>Here are the DIY files so you can build your own DiscoBall.
 There are 3 main parts to DiscoBall, the centre, the alignment caps and the ribs.
 These files don't include a portable power solution.  I used a dc-dc converter, a lipo battery and charger that I could fit inside.</p>
